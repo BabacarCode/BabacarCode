@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on create saas for energy solar
 - 📫 How to reach me babacarsidydiallogallan@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: nature, technologie, sport, travel and game
 
 <!---
